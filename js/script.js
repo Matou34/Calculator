@@ -42,7 +42,6 @@ function createBoutton() {
                     affichage = 'Error'; 
                 }
             } else { 
-                console.log('ici');
                 affichage+=buttonValue
                 console.log(affichage);
             } 

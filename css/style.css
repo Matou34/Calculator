@@ -71,6 +71,7 @@ main {
 .text {
   font-size: 2em;
   margin-right: 0.5em;
+  overflow: hidden;
 }
 
 #Container_boutton {
